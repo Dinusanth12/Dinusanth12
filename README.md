@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Dinusanth 👋 — a third-year Automation Engineering Technology student at McMaster University and current Automation Analyst Intern at RBC. I specialize in building real-world, automation-driven tools using Python, GPT, and modern productivity stacks like Notion and Gmail. My projects are designed to solve high-impact problems—from intelligent email summarizers to resume evaluators and full-stack job tracking engines. I’m currently preparing for elite Winter 2026 internships by refining my skills in backend development, quant systems, and machine learning. I’m always building, iterating, and sharing projects that blend automation, AI, and software engineering. Let’s connect and collaborate!
+Hi, I'm Dinusanth 👋 
+
+A third-year Automation Engineering Technology student at McMaster University and current Automation Analyst Intern at RBC. I specialize in building real-world, automation-driven tools using Python, GPT, and modern productivity stacks like Notion and Gmail. My projects are designed to solve high-impact problems, from intelligent email summarizers to resume evaluators and full-stack job tracking engines. I’m currently preparing for elite Winter 2026 internships by refining my skills in backend development, quant systems, and machine learning. I’m always building, iterating, and sharing projects that blend automation, AI, and software engineering. Let’s connect and collaborate!
 
 
 ## 🌐 Socials:
