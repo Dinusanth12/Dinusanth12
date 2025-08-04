@@ -4,6 +4,7 @@ Hi, I'm Dinusanth 👋
 I'm a backend-focused engineer currently working at RBC as an Automation Analyst and at LB Connect as a Software Engineer Intern, where I manage production releases, refactor backend systems, and automate financial workflows. My focus is on building real-world, testable, and scalable tools using Python, C++, and modern stacks.
 
 I've shipped:
+
 🧠 Quant Backtester Pro — a modular trading strategy engine with Polars optimization, Sharpe/Drawdown metrics, and 85%+ test coverage
 
 ✉️ Inbox-to-Insights — a GPT-powered productivity tool that integrates Gmail, Notion, and Google Sheets to automate task creation and cut triage time by 90%
