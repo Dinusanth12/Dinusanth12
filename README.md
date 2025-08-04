@@ -1,7 +1,16 @@
 # 💫 About Me:
 Hi, I'm Dinusanth 👋 
 
-A third-year Automation Engineering Technology student at McMaster University and current Automation Analyst Intern at RBC. I specialize in building real-world, automation-driven tools using Python, GPT, and modern productivity stacks like Notion and Gmail. My projects are designed to solve high-impact problems, from intelligent email summarizers to resume evaluators and full-stack job tracking engines. I’m currently preparing for elite Winter 2026 internships by refining my skills in backend development, quant systems, and machine learning. I’m always building, iterating, and sharing projects that blend automation, AI, and software engineering. Let’s connect and collaborate!
+I'm a backend-focused engineer currently working at RBC as an Automation Analyst and at LB Connect as a Software Engineer Intern, where I manage production releases, refactor backend systems, and automate financial workflows. My focus is on building real-world, testable, and scalable tools using Python, C++, and modern stacks.
+
+I've shipped:
+🧠 Quant Backtester Pro — a modular trading strategy engine with Polars optimization, Sharpe/Drawdown metrics, and 85%+ test coverage
+
+✉️ Inbox-to-Insights — a GPT-powered productivity tool that integrates Gmail, Notion, and Google Sheets to automate task creation and cut triage time by 90%
+
+Currently refining my systems design, automation, and AI engineering skills for Winter/Summer 2026 internships. I thrive in fast-paced backend teams, love modular codebases, and am deeply passionate about building tools that scale and don’t break.
+
+Let’s connect if you're hiring or building something exciting in backend, infrastructure, or automation!
 
 
 ## 🌐 Socials:
